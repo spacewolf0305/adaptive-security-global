@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+matplotlib
+seaborn
+requests
+scikit-learn
+cryptography
+fpdf
