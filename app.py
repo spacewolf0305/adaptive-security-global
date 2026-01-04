@@ -1,7 +1,7 @@
 import os
 import gradio as gr
 import matplotlib
-matplotlib.use('Agg')  # <--- CRITICAL: Prevents crash on Cloud servers (No Monitor)
+matplotlib.use('Agg')  # <--- CRITICAL: Prevents crash on Cloud servers
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
